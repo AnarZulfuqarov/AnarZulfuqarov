@@ -1,12 +1,14 @@
-<h1 align="center">
-  Hi there 👋, I'm Anar  
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=435&lines=MERN+Stack+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Passionate+about+Full-Stack+Development+%F0%9F%92%BB" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi there 👋, I'm Anar</h1>
+<h3 align="center">MERN Stack Developer from Azerbaijan 🇦🇿</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=MERN+Stack+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Passionate+about+Full-Stack+Development+%F0%9F%92%BB" alt="Typing animation" />
+</p>
+
 
 <h3 align="center">MERN Stack Developer from Azerbaijan 🇦🇿</h3>
 
-<p align="center" marginBottom="150px">
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
 </p>
 
@@ -49,7 +51,7 @@ I'm continuously sharpening my skills and aim to contribute **innovative solutio
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/AnarZulfuqarov/AnarZulfuqarov/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/AnarZulfuqarov/AnarZulfuqarov/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
