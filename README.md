@@ -6,7 +6,7 @@
 
 <h3 align="center">MERN Stack Developer from Azerbaijan 🇦🇿</h3>
 
-<p align="center">
+<p align="center" marginBottom="50px">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
 </p>
 
