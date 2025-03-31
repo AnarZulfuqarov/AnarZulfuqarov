@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer from Azerbaijan 🇦🇿</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=MERN+Stack+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Passionate+about+Full-Stack+Development+%F0%9F%92%BB" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=MERN+Stack+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Passionate+about+Full-Stack+Development+%F0%9F%92%BB" alt="Typing animation" />
 </p>
 
 
