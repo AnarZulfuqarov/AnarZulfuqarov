@@ -1,4 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Anar</h1>
+<h1 align="center">
+  Hi there 👋, I'm Anar  
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=435&lines=MERN+Stack+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB;Passionate+about+Full-Stack+Development+%F0%9F%92%BB" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">MERN Stack Developer from Azerbaijan 🇦🇿</h3>
 
 <p align="center">
@@ -15,9 +20,9 @@ I'm continuously sharpening my skills and aim to contribute **innovative solutio
 
 ---
 
-### 🔧 Tech Stack & Tools
+### 🚀 Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css,git,vscode" />
 </p>
 
@@ -25,7 +30,7 @@ I'm continuously sharpening my skills and aim to contribute **innovative solutio
 
 ### 📈 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnarZulfuqarov&show_icons=true&theme=radical" alt="Anar's GitHub stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnarZulfuqarov&layout=compact&theme=radical" alt="Top Languages" />
@@ -33,18 +38,34 @@ I'm continuously sharpening my skills and aim to contribute **innovative solutio
 
 ---
 
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnarZulfuqarov&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/AnarZulfuqarov/AnarZulfuqarov/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 🏅 Badges
 
-- 🔥 Passionate Developer
-- 💡 Problem Solver
-- 🧠 Fast Learner
-- 🤝 Team Player
+- 🔥 Passionate Developer  
+- 💡 Problem Solver  
+- 🧠 Fast Learner  
+- 🤝 Team Player  
 
 ---
 
 ### 📬 Let's Connect!
 
-<p align="left">
+<p align="center">
   <a href="mailto:zulfuqarov584@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/anar-zulfugarov-344052302"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/AnarZulfuqarov"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
