@@ -19,8 +19,8 @@
 ---
 
 ### 📫 Əlaqə:
-- Email: [anar.dev@example.com](mailto:zulfuqarov584@gmail.com)
-- LinkedIn: [linkedin.com/in/anarzulfuqarov](https://www.linkedin.com/in/anar-zulfugarov-344052302)
+- Email: [zulfuqarov584@gmail.com](mailto:zulfuqarov584@gmail.com)
+- LinkedIn: [linkedin.com/in/anarzulfugarov](https://www.linkedin.com/in/anar-zulfugarov-344052302)
 - GitHub: [AnarZulfuqarov](https://github.com/AnarZulfuqarov)
 
 ---
