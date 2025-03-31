@@ -25,7 +25,7 @@ I'm continuously sharpening my skills and aim to contribute **innovative solutio
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AnarZulfuqarov&show_icons=true&theme=radical" alt="Anar's GitHub stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnarZulfuqarov&layout=compact&theme=radical" alt="Top Languages" />
